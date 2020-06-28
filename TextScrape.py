@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from time import sleep
 from random import randint
 
-start = 2785
+start = 2687
 end = 2787
 
 start_time = time.time()
