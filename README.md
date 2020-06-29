@@ -1,2 +1,2 @@
 # stylefarming
-Thumb farmers
+Making search easier for thumb farmers
